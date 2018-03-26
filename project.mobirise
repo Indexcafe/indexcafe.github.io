@@ -116,7 +116,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logot-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logotipo2-384x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
