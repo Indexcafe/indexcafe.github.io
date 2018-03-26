@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "IndexCaféMobile",
+    "name": "IndexCafé Modelo1",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -14,7 +14,9 @@
     "versionFirst": "4.6.5",
     "uniqCompNum": 16,
     "versionPublish": "4.6.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
